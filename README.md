@@ -12,10 +12,8 @@ The Panoptis network will launch with a stable set of maintained validators. Tec
 
 ## Key features
 
-### Stateful Ethereum Fork
-Panoptis brings all of the Ethereum state with it! As of block number _______ (TBD), Exact copies of all smart contracts, ERC-20 tokens, ERC-721 NFTs, and user accounts will exist on Panoptis. Because of the extent of applications and use cases deployed on the Ethereum mainnet, it's not possible to anticipate exactly how any cloned assets will be valued by the community. Some contracts and applications will work 100% as they do on Ethereum, other contracts such as centralized stable coins are unlikely to have the authoritative support behind them.
-
-Eventually the relative value of these assets will equalize though market action, but it is expected that there will be a discovery period with high volatility at launch of the network.
+### Ethereum Fork
+Panoptis brings all of the use cases from Ethereum with it! As of all capabilities of smart contracts, ERC-20 tokens, ERC-721 NFTs, and functionalitys will exist on Panoptis. Network. Because of the extent of applications and use cases deployed on the Ethereum mainnet, Some contracts and applications will work 100% as they do on Ethereum. panoptis team will work for asap have fylly working contracts, such as centralized stable coins that have the authoritative support behind them will be implemented on the network. all to incentivise project developers to build on the blockchain.
 
 ### Proof of Staked Authority
 Although Proof-of-Work (PoW) has been proven as a mechanism to implement a decentralized network, it is not practical for new or small networks and requires a large number of participants and computational waste to maintain the security.
@@ -35,7 +33,7 @@ Panoptis inherits and modifies the Binance Smart Chain consensus engine, Parlia,
 
 ## Native Token
 
-The native ETH token will become PANO on the Panoptis network. The PANO supply will be inflated by at least 10,000x upon forking, with the extra supply being distributed to the users that sacrificed during the Panoptis sacrifice phase.
+The native ETH token will become PANO on the Panoptis network. The PANO supply will be inflated to at least 200.000.000 upon genesis creation.
 
 PANO will be used just as ETH is used on the Ethereum network for transaction fees, as well as for delegating stake to network validators.
 
